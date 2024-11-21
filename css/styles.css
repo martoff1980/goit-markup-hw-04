@@ -205,6 +205,17 @@ a {
   flex-basis: 272px; /* calc((100% - 3 * 24px) / 4); */
 }
 
+.discription-icon {
+  display: flex;
+  margin-bottom: 8px;
+  height: 112px;
+  border-radius: 4px;
+  border: 1px solid #8e8f99;
+  align-items: center;
+  justify-content: center;
+  background-color: #f4f4fd;
+}
+
 .discription-title {
   margin-bottom: 8px;
   font-size: 20px;
