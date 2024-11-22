@@ -384,6 +384,11 @@ a {
   background-color: #2e2f42;
 }
 
+.footer-container {
+  display: flex;
+  align-items: baseline;
+}
+
 .footer-logo {
   display: inline-block;
   margin-bottom: 16px;
@@ -398,6 +403,10 @@ a {
 
 .footer-text {
   color: #f4f4fd;
+}
+
+.footer-logotext {
+  margin-right: 120px;
 }
 
 .footer-content {
