@@ -434,9 +434,21 @@ a {
   height: 40px;
 }
 
-.footer-socialmediaitem a {
+.footer-socialmedialink {
+  display: flex;
   width: 40px;
   height: 40px;
+  align-items: center;
+  justify-content: center;
   border-radius: 50%;
   background-color: #4d5ae5;
+}
+
+.footer-socialmedialink:hover,
+.footer-socialmedialink:focus {
+  background-color: #31d0aa;
+}
+
+.footer-socialmediaicon {
+  fill: #f4f4fd;
 }
