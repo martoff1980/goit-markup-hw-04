@@ -325,7 +325,7 @@ a {
   color: #434455;
 }
 
-.socialmedia-list {
+/* .socialmedia-list {
   display: flex;
   gap: 24px;
   justify-content: center;
@@ -352,7 +352,7 @@ a {
 
 .socialmedia-icon {
   fill: #f4f4fd;
-}
+} */
 
 .our-portfolio {
   padding: 120px 0 120px 0;
