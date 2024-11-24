@@ -294,8 +294,13 @@ a {
   align-items: center;
   justify-content: center;
   border-radius: 50%;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   background-color: #4d5ae5;
 }
+
+/* .socialmedia-link a {
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+} */
 
 .socialmedia-link:hover,
 .socialmedia-link:focus {
