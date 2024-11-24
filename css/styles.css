@@ -325,35 +325,6 @@ a {
   color: #434455;
 }
 
-/* .socialmedia-list {
-  display: flex;
-  gap: 24px;
-  justify-content: center;
-}
-
-.socialmedia-item {
-  width: 40px;
-  height: 40px;
-}
-
-.socialmedia-link {
-  display: flex;
-  width: 100%;
-  height: 100%;
-  border-radius: 50%;
-  align-items: center;
-  background-color: #4d5ae5;
-}
-
-.socialmedia-link:hover,
-.socialmedia-link {
-  background-color: #404bbf;
-}
-
-.socialmedia-icon {
-  fill: #f4f4fd;
-} */
-
 .our-portfolio {
   padding: 120px 0 120px 0;
 }
