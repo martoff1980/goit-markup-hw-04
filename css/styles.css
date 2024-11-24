@@ -271,7 +271,8 @@ a {
   background-color: #ffffff;
 }
 
-.person-center {
+.person-center,
+.socialmedia-icons {
   padding: 32px 0 32px;
 }
 
