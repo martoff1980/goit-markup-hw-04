@@ -373,20 +373,20 @@ a {
   border: 1px solid #e7e9fc;
 }
 
-/* .portfolio-content {
+.portfolio-content {
   margin-bottom: 8px;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
-} */
+}
 
 .portfolio-explanation {
   position: absolute;
   padding: 40px 32px;
-  width: 100%;
   height: 100%;
+  width: 100%;
   transform: translateY(100%);
   top: 0;
   font-size: 16px;
