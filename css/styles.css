@@ -397,7 +397,7 @@ a {
   color: #f4f4fd;
 }
 
-.portfolio-explanation {
+.portfolio-explanation:hover {
   transform: translateY(0%);
 }
 
