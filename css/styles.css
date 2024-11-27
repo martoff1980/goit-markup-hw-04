@@ -275,9 +275,9 @@ a {
   padding: 32px 0 32px;
 }
 
-/* .socialmedia-icons {
-  padding: 32px 0 32px;
-} */
+.socialmedia-icons {
+  padding-top: 8px;
+}
 
 .socialmedia-list {
   display: flex;
