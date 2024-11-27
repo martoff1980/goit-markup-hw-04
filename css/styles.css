@@ -361,9 +361,9 @@ a {
     0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 
-/* .portfolio-items li:hover .portfolio-explanation p {
+.portfolio-items li:hover .portfolio-explanation p {
   transform: translateY(0%);
-} */
+}
 
 .portfolio-image {
   position: relative;
