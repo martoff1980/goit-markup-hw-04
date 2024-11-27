@@ -277,7 +277,6 @@ a {
 }
 
 .socialmedia-icons {
-  /* margin-top: 8px; */
 }
 
 .socialmedia-list {
@@ -293,6 +292,7 @@ a {
 
 .socialmedia-link {
   display: flex;
+  gap: 24px;
   width: 100%;
   height: 100%;
   align-items: center;
