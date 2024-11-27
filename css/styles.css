@@ -366,9 +366,9 @@ a {
     0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 
-/* .portfolio-items:hover .portfolio-active p {
+.portfolio-items:hover .portfolio-active {
   transform: translateY(0%);
-} */
+}
 
 .portfolio-image {
   position: relative;
@@ -411,10 +411,6 @@ a {
   color: #f4f4fd;
   background-color: #4d5ae5;
 }
-
-/* .portfolio-active:hover {
-  transform: translateY(0%);
-} */
 
 .footer-items {
   padding: 100px 0 100px;
